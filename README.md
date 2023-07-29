@@ -13,7 +13,7 @@ Possibilita inserir um usuario com login e autenticação JWT, insrir, atualizar
 
 
 ## :heavy_check_mark: Tecnologias usadas
-- `Java Spring Boot` <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+- `JAVA Spring Boot` <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
 - `Maven`
 - `Spring-Data-JPA / Hibernate`
 - `Swagger`
